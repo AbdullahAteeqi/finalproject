@@ -1,0 +1,154 @@
+body{
+    background-color: rgb(47, 72, 88);
+}
+
+
+.logo{
+    color: rgb(246, 174, 45);
+    display: flex;
+justify-content: center;
+
+}
+
+
+
+
+.ebtdae{
+    background-color: rgb(47, 72, 88);
+}
+
+.mtwast{
+    background-color: rgb(47, 72, 88);
+}
+.father{
+     
+    display: flex; 
+    width: fit-content;   
+    
+    
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+   
+}
+
+
+.N{
+   
+    background-color: rgb(246, 174, 45);
+   margin-right: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    border-radius: 90px;
+    display: flex;
+    width: fit-content;
+   
+}
+
+ img{ 
+      
+     width: 70px;
+     height: 50px; 
+     margin-top: 20px;
+     
+ }
+.Na{
+    
+   background-color: rgb(246, 174, 45);
+   
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    display: flex;
+   width: fit-content; 
+ 
+   border-radius: 90px; 
+  
+
+
+   
+}
+.N:hover{
+    color: seashell;
+    box-shadow: 1px 1px rgb(0, 0, 0);
+    background-color: cornsilk;
+}
+
+.Na:hover{
+    color: seashell;
+    box-shadow: 1px 1px black;
+    background-color: cornsilk;
+}
+.f{
+    /* background-color: blanchedalmond; */
+    border-radius: 90px;
+    display: flex; 
+    width: fit-content;   
+    color: seashell;
+    
+    
+    margin-right: auto;
+    margin-left: auto;
+     margin-top: 88px;
+}
+.card{
+   
+       
+        width: 300px;
+        height: 400px;
+        background-color: rgb(246, 174, 45);
+        border-radius: 12px;
+        box-shadow: 10px 10px 10px;
+     margin: auto;
+     text-align: center;
+}
+.center {
+    margin: auto;
+  }
+
+  .mqimg { 
+   
+    width: 120px;
+    height: 120px;
+    margin-top: 20px;
+    box-shadow: 3px 3px 10px;
+    border-radius: 528px; 
+  }
+  .cards{ 
+      display: flex;
+      justify-content: space-between;
+  }
+  .card:hover{
+   
+       
+    width: 300px;
+    height: 400px;
+    background-color: snow;
+    border-radius: 12px;
+    box-shadow: 10px 10px 10px;
+ margin: auto;
+ text-align: center;
+}
+
+button{
+
+    color: black;
+    background-color: rgb(246, 174, 45);
+    border-radius: 12px;
+}
+
+button:hover{
+    
+
+    color: black;
+    background-color:snow;
+    border-radius: 12px;
+
+}
+
+.b{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
